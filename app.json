@@ -2,6 +2,7 @@
   "name": "LINE Login starter",
   "description": "Sample Application for LINE Login",
   "repository": "https://github.com/line/line-login-starter",
+  "repository": "https://github.com/ponkennine/line-login-starter",
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
       "description": "Channel ID",
